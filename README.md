@@ -1,11 +1,12 @@
 # Sistema de Gestión Académica para Posgrado - UTN FRLP
 
 ## Integrantes
-Luciano Privitera 33203
-Emilio  Benjamín Rivero 34040
-Valentin Garcia Devrient 33800
-Redruello Lautaro 33334
-Lucio Angel 33664
+* Luciano Privitera
+* Emilio  Benjamín Rivero 34040
+* Valentin Garcia Devrient 33800
+* Redruello Lautaro 33334
+* Lucio Angel 33664
+* Araceli Melina Dávila 26901
 
 
 Este repositorio contiene el **Product Backlog** desarrollado para el Sistema de Gestión Académica de Posgrado de la UTN Facultad Regional La Plata. El proyecto aplica metodologías ágiles (Scrum) para centralizar la información de aspirantes, alumnos y docentes.
@@ -50,12 +51,6 @@ A continuación se presenta el backlog con 17 historias de usuario, incluyendo d
 | **US-15** | EP-02 | Como usuario, quiero descargar mi perfil en PDF, para contar con un comprobante de mi estado. | 1. **Dado** el botón de descarga, **Cuando** se pulsa, **Entonces** se genera el archivo PDF con el resumen.<br>2. **Dado** datos pendientes, **Cuando** se genera el PDF, **Entonces** incluye una nota de información preliminar. | 3 | C | 4 |
 | **US-16** | EP-03 | Como docente, quiero descargar la planilla, para su uso físico durante la clase. | 1. **Dado** la opción de impresión, **Cuando** se selecciona, **Entonces** genera un formato A4 optimizado.<br>2. **Dado** actualizaciones en la lista, **Cuando** se descarga, **Entonces** asegura incluir a los nuevos alumnos. | 2 | S | 3 |
 | **US-17** | EP-05 | Como sistema, quiero restringir accesos, para proteger la privacidad de los datos personales. | 1. **Dado** un intento de acceso no autorizado, **Cuando** se valida el rol, **Entonces** el sistema bloquea la vista.<br>2. **Dado** un acceso correcto, **Cuando** se navega, **Entonces** solo se ven los módulos permitidos por rol. | 5 | M | 2 |
-
-## 4. Metodología y Herramientas
-* **Marco de Trabajo**: Scrum.
-* **Estimación**: Puntos de Historia (Fibonacci).
-* **Priorización**: Técnica MoSCoW.
-* **Formato de Criterios**: Gherkin (Dado/Cuando/Entonces).
 
 ---
 Desarrollo de Software - UTN FRLP
