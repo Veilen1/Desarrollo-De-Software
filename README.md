@@ -1,7 +1,7 @@
 # Sistema de Gestión Académica para Posgrado - UTN FRLP
 
 ## Integrantes
-* Luciano Privitera
+* Luciano Privitera 33203
 * Emilio  Benjamín Rivero 34040
 * Valentin Garcia Devrient 33800
 * Redruello Lautaro 33334
